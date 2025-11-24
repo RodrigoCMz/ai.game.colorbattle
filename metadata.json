@@ -1,0 +1,5 @@
+{
+  "name": "Color Batle",
+  "description": "A frantic 2-player territory control game. Place turrets and units to paint the arena in your color. First to 98% or majority after 3 minutes wins!",
+  "requestFramePermissions": []
+}
